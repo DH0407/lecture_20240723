@@ -21,3 +21,7 @@ var i int;
 print(i);
 function aa(){}
 ```
+
+
+# 7월23일(화) 課題
+1. vi  에디터를 사용할 줄 알아야 하는구나 
